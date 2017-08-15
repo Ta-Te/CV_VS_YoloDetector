@@ -16,7 +16,7 @@ Required library files:
 Required YOLO CNN model files:
 
 1. yolo.cfg
-2. yolo.weights
+2. yolo.weights (download this file from https://pjreddie.com/media/files/yolo.weights ; place this file in the same directory of the execution file) 
 3. yolo.names
 
 References:
