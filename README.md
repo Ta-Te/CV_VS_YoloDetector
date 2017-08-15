@@ -1,5 +1,5 @@
 # CV_VS_YoloDetector
-A Demonstration program based on the Yolo2 object detector (OpenCV 3.2 + VS 2015)
+A Demonstration program based on the Yolo2 object detector (OpenCV 3.2 + VS C++ 2015)
 
 The Qt program was build with the following environment:
 
