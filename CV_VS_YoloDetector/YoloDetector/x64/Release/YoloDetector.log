@@ -1,0 +1,24 @@
+﻿  YoloDetector.cpp
+D:\opencv32\build\install\include\opencv2/core/mat.hpp(1926): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\opencv32\build\install\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\opencv32\build\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\opencv32\build\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+d:\opencv32\build\install\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\opencv32\build\install\include\opencv2/imgproc.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\opencv32\build\install\include\opencv2/imgproc.hpp(617): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\opencv32\build\install\include\opencv2/stitching/detail/motion_estimators.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\opencv32\build\install\include\opencv2/video/tracking.hpp(540): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\darknet\src\yolo_v2_class.hpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\darknet\src\yolo_v2_class.hpp(69): warning C4244: '*=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\darknet\src\yolo_v2_class.hpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+YoloDetector.cpp(34): warning C4018: '>': signed/unsigned mismatch
+YoloDetector.cpp(35): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+YoloDetector.cpp(36): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+YoloDetector.cpp(38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+YoloDetector.cpp(96): warning C4305: '=': truncation from 'double' to 'float'
+YoloDetector.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  All 794 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  YoloDetector.vcxproj -> D:\Users\ttlin\Documents\Visual Studio 2015\Projects\YoloDetector\x64\Release\YoloDetector.exe
+  YoloDetector.vcxproj -> D:\Users\ttlin\Documents\Visual Studio 2015\Projects\YoloDetector\x64\Release\YoloDetector.pdb (Full PDB)
